@@ -1,14 +1,22 @@
-# Hi, I'm Irtaza Shahab 👋
+<h1 align="center">Hi, I'm Muhammad Irtaza Shahab</h1>
+
+<p align="center">
+  <strong>Full-Stack Developer</strong>
+  Building Smart, Scalable Apps to Solve Complex Problems
+</p>
+
+---
 
 ## About Me
 I’m a full-stack developer with a passion for creating robust web applications. With a strong background in both front-end and back-end development, I specialize in building scalable and interactive platforms. My focus is on crafting pixel-perfect UI/UX with Next.js, React, and Tailwind, while leveraging the power of WordPress, Shopify, and other CMS platforms.
 
 ## My Tech Stack
-- **Languages:** JavaScript, TypeScript, Python, C++
-- **Front-End:** Next.js, React, Tailwind CSS, Redux
-- **Back-End:** Node.js, Express, Django
-- **CMS Development:** WordPress, Shopify
-- **Tools:** Git, Docker, Figma, VS Code
+| Frontend        | Backend             | Database         | DevOps & Tools       | CMS Development
+|-----------------|---------------------|------------------|----------------------|-------------------
+| Next.js         | Node.js             | PostgreSQL       | Git & GitHub         | WordPress
+| React.js        | Express.js          | MongoDB          | Docker               | Elementer
+| Tailwind CSS    | PHP / Laravel       | Prisma ORM       | Figma                | Shopify
+| Bootstrap / SCSS| REST APIs / GraphQL | MySQL (basic),    | VS Code             | Framer
 
 <br/>
 
@@ -16,7 +24,7 @@ I’m a full-stack developer with a passion for creating robust web applications
 </div>
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Islah-Ud-Din&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IrtazaShahab&show_icons=true)
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/irtaza-shahab-143a3524a/)
