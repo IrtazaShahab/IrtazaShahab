@@ -15,6 +15,7 @@ I’m a full-stack developer with a passion for creating robust web applications
 ## 🛠️ My Tech Stack
 
 <div align="center">
+  
 | Frontend        | Backend             | Database         | DevOps & Tools       | CMS Development
 |-----------------|---------------------|------------------|----------------------|-------------------
 | Next.js         | Node.js             | PostgreSQL       | Git & GitHub         | WordPress
@@ -25,9 +26,9 @@ I’m a full-stack developer with a passion for creating robust web applications
 <br/>
 
 <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,bootstrap,tailwind,react,angular,nextjs,nodejs,express,php,laravel,postgres,mongodb,supabase,prisma,git,github,vscode,docker,aws&perline=10" alt="tech stack"/>
-</div>
 
 </div>
+
 
 ---
 
@@ -36,7 +37,7 @@ I’m a full-stack developer with a passion for creating robust web applications
 - [Twitter](https://x.com/ShahabIrtaza19)
 - [Personal Website](your-website-link)
 
----
+
 
 ## Open Source & Contributions
 I’m passionate about open-source and have contributed to multiple projects, ranging from UI libraries to CMS tools. I love collaborating, so feel free to reach out if you’d like to work together on something new!
