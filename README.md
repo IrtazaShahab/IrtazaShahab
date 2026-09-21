@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Muhammad Irtaza Shahab</h1>
+<h1 align="center">Hi, I am Muhammad Irtaza Shahab</h1>
 
 <p align="center">
   <strong>Full-Stack Developer</strong>
