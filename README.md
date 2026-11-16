@@ -5,12 +5,15 @@
   Building Smart, Scalable Apps to Solve Complex Problems
 </p>
 
----
-
 ## About Me
 <h3>I build modern web applications and full-stack products that solve real-world problems — from polished, responsive user interfaces to reliable backend integrations and data-driven platforms.
 </h3>
----
+
+### Current Focus
+
+- **Building:** Full-stack applications using Next.js, React, TypeScript, Node.js, and PostgreSQL.
+- **Exploring:** Scalable application architecture, backend development, and modern web technologies.
+- **Open to Work:** Remote opportunities and collaborations in frontend and full-stack development.
 
 ## 🛠️ My Tech Stack
 
