@@ -25,15 +25,16 @@
 | Shadcn/UI
 <br/>
 
-<img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,bootstrap,tailwind,react,nextjs,nodejs,express,php,laravel,postgres,supabase,prisma,git,github,vscode,docker,aws&perline=10" alt="tech stack"/>
+<img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,bootstrap,tailwind,react,nextjs,nodejs,express,php,laravel,postgres,supabase,prisma,git,github,vscode,aws&perline=10" alt="tech stack"/>
 
 </div>
 
 
 ---
 
-Let's Connect
-Looking for an engineer who cares about user experience, clean implementation, and building products that solve real business problems? Let's connect.
+## Let's Connect
 
-LinkedIn: linkedin.com/in/irtaza-shahab
-Email: irtazashahab@gmail.com
+<p>Looking for an engineer who cares about user experience, clean implementation, and building products that solve real business problems? Let's connect.</p>
+
+- **LinkedIn:** [linkedin.com/in/irtaza-shahab](https://linkedin.com/in/irtaza-shahab)
+- **Email:** [irtazashahab@gmail.com](mailto:irtazashahab@gmail.com)
