@@ -8,8 +8,8 @@
 ---
 
 ## About Me
-I’m a full-stack developer with a passion for creating robust web applications. With a strong background in both front-end and back-end development, I specialize in building scalable and interactive platforms. My focus is on crafting pixel-perfect UI/UX with Next.js, React, and Tailwind, while leveraging the power of WordPress, Shopify, and other CMS platforms.
-
+<h3>I build modern web applications and full-stack products that solve real-world problems — from polished, responsive user interfaces to reliable backend integrations and data-driven platforms.
+</h3>
 ---
 
 ## 🛠️ My Tech Stack
@@ -19,25 +19,21 @@ I’m a full-stack developer with a passion for creating robust web applications
 | Frontend        | Backend             | Database         | DevOps & Tools       | CMS Development
 |-----------------|---------------------|------------------|----------------------|-------------------
 | Next.js         | Node.js             | PostgreSQL       | Git & GitHub         | WordPress
-| React.js        | Express.js          | MongoDB          | Docker               | Elementer
-| Tailwind CSS    | PHP / Laravel       | Prisma ORM       | Figma                | Shopify
-| Bootstrap / SCSS| REST APIs / GraphQL | MySQL (basic),    | VS Code             | Framer
-
+| React.js        | Express.js          | Supabase         | VS Code              | Elementer
+| Tailwind CSS    | REST APIs           | Prisma ORM       | Figma                | Shopify
+| Bootstrap / SCSS| PHP                 | MySQL (basic),   | Vercel               | Framer
+| Shadcn/UI
 <br/>
 
-<img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,bootstrap,tailwind,react,angular,nextjs,nodejs,express,php,laravel,postgres,mongodb,supabase,prisma,git,github,vscode,docker,aws&perline=10" alt="tech stack"/>
+<img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,bootstrap,tailwind,react,nextjs,nodejs,express,php,laravel,postgres,supabase,prisma,git,github,vscode,docker,aws&perline=10" alt="tech stack"/>
 
 </div>
 
 
 ---
 
-## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/irtaza-shahab-143a3524a/)
-- [Twitter](https://x.com/ShahabIrtaza19)
-- [Personal Website](your-website-link)
+Let's Connect
+Looking for an engineer who cares about user experience, clean implementation, and building products that solve real business problems? Let's connect.
 
-
-
-## Open Source & Contributions
-I’m passionate about open-source and have contributed to multiple projects, ranging from UI libraries to CMS tools. I love collaborating, so feel free to reach out if you’d like to work together on something new!
+LinkedIn: linkedin.com/in/irtaza-shahab
+Email: irtazashahab@gmail.com
