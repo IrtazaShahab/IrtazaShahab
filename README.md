@@ -1,10 +1,5 @@
 <h1 align="center">Hi, I am Muhammad Irtaza Shahab</h1>
 
-<p align="center">
-  <strong>Full-Stack Developer</strong>
-  Building Smart, Scalable Apps to Solve Complex Problems
-</p>
-
 ## About Me
 <h3>I build modern web applications and full-stack products that solve real-world problems — from polished, responsive user interfaces to reliable backend integrations and data-driven platforms.
 </h3>
